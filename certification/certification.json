@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Introduction to Information Security",
+        "by": "Cyber Academy",
+        "image": "./certification/ca-cyber.png",
+        "category":"cyber",
+        "links": {
+            "credentials": "https://www.cyberacademy.id/certificate/PKMI01105241194"
+        }
+    }, {
+        "name": "Learn basic DevOps",
+        "by": "Dicoding Academy",
+        "image": "./certification/do-dicoding.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/72ZDV8GYLZYW"
+        }
+    }, {
+        "name": "Learn basic java programming",
+        "by": "Dicoding Academy",
+        "image": "./certification/pj-dicoding.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/N9ZOM6RK8PG5"
+        }
+    }, {
+        "name": "Getting Started Programming With C",
+        "by": "Dicoding Academy",
+        "image": "./certification/pc-dicoding.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/1OP8W0OMLXQK"
+        }
+    }, {
+        "name": "Learn Basic Data Visualization",
+        "by": "Dicoding Academy",
+        "image": "./certification/vd-dicoding.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/ERZR1G3M2ZYV"
+        }
+    }, {
+        "name": "Cloud Practitioner Essentials (Learn AWS Cloud Basics)",
+        "by": "Dicoding Academy",
+        "image": "./certification/aws-dicoding.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/07Z60VNQJZQR"
+        }
+    },  {
+        "name": "Mikrotik(MTCNA)",
+        "by": "mikrotik",
+        "image": "./certification/mk-mikrotik.png",
+        "category":"mikrotik",
+        "links": {
+            "credentials": "https://mikrotik.com/training/certificates/c313475ca6c3be1bf6e2"
+        }
+    }
+]
